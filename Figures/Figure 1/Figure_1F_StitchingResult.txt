@@ -1,0 +1,3 @@
+Sample: 2018-10-01
+Coordinates: [76450.8, 15032.1, 36200.2]
+display range: [12625,18443]

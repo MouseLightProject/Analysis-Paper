@@ -1,0 +1,3 @@
+Sample: 2018-03-09
+classifier bounding box: [65103 48880 21658] [65403 49080 21808]
+Raw Location: [65201.4, 48974.8, 21758.0]

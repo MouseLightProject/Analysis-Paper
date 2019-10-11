@@ -1,0 +1,14 @@
+Sample: 2018-10-01
+const signal_channel = 1
+const reference_channel = 2
+
+const signal_black_level = 11358
+const signal_white_level = 24393
+const reference_black_level = 15951
+const reference_white_level = 32864
+
+const axis = 2  # 1=sagittal, 2=transverse, or 3=coronal
+
+const crop_um = [14600,15200] #[-Inf,Inf]
+
+projection_function(arg) = maximum(arg[crop_range])
